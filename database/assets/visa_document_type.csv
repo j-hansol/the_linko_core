@@ -1,0 +1,46 @@
+﻿순번,한글이름,영문이름,한글설명,영문설명,필수여부,가중치,사용여부
+1,가족관계증명서,Certificate of Family Relations,,,1,95,1
+2,건강상태 확인서(진술),Health Statement,본인의 자필요 직접 체크하여 작성,,0,0,0
+3,건강진단서,Health Checkup Certificate,,,0,97,1
+4,결핵진단서,Tuberculosis Diagnosis Certificate,,,0,0,0
+5,경력증명서,Work Experience Certificate,,,1,96,1
+6,계약서,Contract,"용역계약서, 구매계약서, 사업 수주계약서 등",,0,0,0
+7,고용계약서,Employment Contract,,,0,0,0
+8,고용추천서,letter of recommendation,,,0,0,0
+9,공연계획서,Performance Proposal,,,0,0,0
+10,공연추천서,Performance Recommendation Letter,영상물등급위원회에서 발급,,0,0,0
+11,등기사항전부증명서,Certificate of Registered Matters,,,0,0,0
+12,범죄경력증명서,Criminal Record Certificate,영어회화 강사의 경우 아포스티유 확인 받은 벰제사실 증명원 필요,,1,98,1
+13,사업자등록증,Business Registration Certificate,,,0,0,0
+14,사증발급 신청서,Visa Application Form,지정 양식 사용,,1,100,1
+15,사회복지단체의 설립허가서,Approval of Establishment for Social Welfare Organization,,,0,0,0
+16,서약서,Pledge Letter,지정 양식 사용,,0,0,0
+17,신분증,ID Card,"필리핀의 취업규제위원해 신분정(PRC Card), IBR Card 및 기타 신분증",,0,0,0
+18,신원보증서,Identity Certificate,,,0,0,0
+19,약물검사 확인서,Drug Test Certificate,마약류 약물 검사,,0,0,0
+20,여권,Passport,,,1,99,1
+21,외교관 여권,Diplomatic Passport,,,0,0,0
+22,외국인등록증,Alien Registration Card,,,0,0,0
+23,외료기관 예약증명서,Confirmation of External Agency Reservation,,,0,0,0
+24,은행명세서,Bank Statement,"잔고증명서, 해외송금 내역 등 표시",,0,0,0
+25,일정,Schedule,,,0,0,0
+26,임대차계약서,Rental Contract,,,0,0,0
+27,임신진단서,Pregnancy Diagnosis Certificate,,,0,0,0
+28,임양관계증명서,Certificate of Adoption,,,0,0,0
+29,임용예정확인서,Appointment Confirmation Letter,,,0,0,0
+30,자격(면허)증,Qualification Certificate,,,0,0,0
+31,장애인증명서,Disability Certificate,,,0,0,0
+32,재직증명서,Employment Certificate,,,0,0,0
+33,재학증명서,Certificate of Enrollment,,,0,0,0
+34,졸업증명서,Graduation Certificate,아포스티유 확인 필요,,0,0,0
+35,진료비 영수정,Medical Expense Receip,,,0,0,0
+36,차량소유증명서,Vehicle Ownership Certificate,STNK/오토바이는 제외,,0,0,0
+37,초청장,Invitation Latter,지정 양식 사용,,0,0,0
+38,출장명령서,Business Travel Order,,,0,0,0
+39,파견명령서,Secondment Order,,,0,0,0
+40,평생교육시설등록증,Lifelong Education Facility Registration Certificate,,,0,0,0
+41,표준입학허가서,Certificate of Admission,,,0,0,0
+42,학위증명서,Degree Certificate,아포스티유 확인 필요,,0,0,0
+43,혼인증명서,Marriage Certificate,,,0,0,0
+44,고용허가제 한국어능력시 합격증,EPS-TOPIK Application,고용허가제 한국너능력시험 합격했음을 인증하는 서류,,0,0,0
+45,기타,Other,,,0,1,1
