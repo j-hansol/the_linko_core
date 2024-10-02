@@ -5,7 +5,7 @@
 * Owner (프로젝트 소유자)
 * Maintainer (유지 관리자)
 * Developer (개발자)
-* Reporter (보가자)
+* Reporter (보고자)
 
 위 역할 중 Owner 와 Maintainer 역할을 가진 구성원이 마스터(Master) 브렌치에 Merge / Push 작업이 가능합니다.
 Developer 는 별도의 브렌치를 생성하여 작업하고 작업 결과를 Push 한 후 Owner, Maintainer 역할의 구성원에게 병합(Merge) 요청을 해주세요.
